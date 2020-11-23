@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085718851896",
+    "firebase_url": "https://uts-gulikpurwanto.firebaseio.com",
+    "project_id": "uts-gulikpurwanto",
+    "storage_bucket": "uts-gulikpurwanto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085718851896:android:050ca9d3c1ef83bf8e51cd",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500073_gulik_purwanto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085718851896-3ih2371guv6058fd3ue9f7vrutrdr3dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCEkgypMWF2i5ze7cSk56piLAeBTlb9rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085718851896-3ih2371guv6058fd3ue9f7vrutrdr3dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
